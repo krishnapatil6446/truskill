@@ -1,1 +1,2 @@
-# truskill
+# TruSkill-Academy
+# TruSkill-Academy
